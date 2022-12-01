@@ -6,6 +6,4 @@ I just recieved my Masters in Mathematics (with emphasis on Applied Math) from P
 
 Check out my [Portfolio](https://github.com/NPopkin/Portfolio) for some new projects I have been working on. 
 
-I am currently looking for oppertunities in Data Science. 
-
 In my free time, I love to hike with my dog, photograph cool nature and cook anything and everything!
