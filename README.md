@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my Github Profile! 👋
 
-My name is Naomi and I am passionate about Data Science!
+My name is Naomi!
 
 I just recieved my Masters in Mathematics (with emphasis on Applied Math) from Purdue University and a Dual Bachelor of Science in Engineering in Computer and Information Science & Mathematics from University of Pennsylvania.
 
